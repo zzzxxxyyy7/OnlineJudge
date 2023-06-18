@@ -1,7 +1,8 @@
 <template>
     <div>
         <ContentBase>
-            题库
+            <h1>题库</h1>
+            <hr>
         </ContentBase>
     </div>
 </template>

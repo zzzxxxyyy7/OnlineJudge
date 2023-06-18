@@ -1,13 +1,13 @@
 <template>
     <div>
         <ContentBase>
-            <h4>新用户注册</h4>
+            <h4>登录</h4>
             <form>
                 <br>
-                <label for="username">用户名&nbsp;</label>
-                <input type="text" name="" id="phonenumber" class="register">
+                <label for="username">用户名</label>
+                <input type="text" class="register">
                 <br><br>
-                <label for="pwd">密码&nbsp;</label>
+                <label for="pwd">密码</label>
                 <input type="password" name="" id="pwd" class="register"><br><br>
                 <input type="submit" name="" value="登录" class="submit" @click="register"><br>
             </form>
