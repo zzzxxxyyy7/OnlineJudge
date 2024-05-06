@@ -2,6 +2,8 @@
     <div>
         <ContentBase>
             竞赛
+          13165416418
+          164981651
         </ContentBase>
     </div>
 </template>
